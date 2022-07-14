@@ -1,3 +1,5 @@
+GOPATH ?= ~/go
+
 all: build
 
 .PHONY: init
@@ -10,4 +12,4 @@ deps:
 
 .PHONY: build
 build:
-	fileb0x fileb0x/b0x.yaml
+	$(GOPATH)/bin/fileb0x fileb0x/b0x.yaml
