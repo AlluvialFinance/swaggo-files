@@ -2,7 +2,7 @@
 // modified(2022-07-15 00:59:06.218913362 +0200 CEST)
 // original path: swagger-ui/dist/favicon-16x16.png
 
-package swaggerFiles
+package swaggofiles
 
 import (
 	"os"

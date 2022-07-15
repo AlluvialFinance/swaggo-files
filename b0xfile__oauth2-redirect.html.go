@@ -2,7 +2,7 @@
 // modified(2022-07-15 00:59:06.219147115 +0200 CEST)
 // original path: swagger-ui/dist/oauth2-redirect.html
 
-package swaggerFiles
+package swaggofiles
 
 import (
 	"os"

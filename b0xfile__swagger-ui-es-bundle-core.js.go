@@ -2,7 +2,7 @@
 // modified(2022-07-15 01:36:42.811285905 +0200 CEST)
 // original path: swagger-ui/dist/swagger-ui-es-bundle-core.js
 
-package swaggerFiles
+package swaggofiles
 
 import (
 	"os"

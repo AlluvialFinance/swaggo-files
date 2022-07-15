@@ -1,4 +1,4 @@
-pkg: swaggerFiles
+pkg: swaggofiles
 
 dest: "./"
 

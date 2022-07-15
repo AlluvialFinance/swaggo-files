@@ -2,7 +2,7 @@
 // modified(2022-07-15 00:59:06.250466874 +0200 CEST)
 // original path: swagger-ui/dist/swagger-ui.css.map
 
-package swaggerFiles
+package swaggofiles
 
 import (
 	"os"

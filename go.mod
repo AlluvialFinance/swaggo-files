@@ -1,5 +1,5 @@
-module github.com/swaggo/files
+module github.com/AlluvialFinance/swaggo-files
 
-go 1.15
+go 1.18
 
 require golang.org/x/net v0.0.0-20220708220712-1185a9018129
